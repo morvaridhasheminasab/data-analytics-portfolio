@@ -1,36 +1,43 @@
-## Data Analytics & Business Intelligence Projects
+# Data Analytics Portfolio
 
-This repository contains a collection of hands-on data analytics and business intelligence projects completed as part of my academic and practical learning journey. The projects demonstrate end-to-end data workflows, including data cleaning, transformation, exploratory analysis, feature engineering, visualisation, and business-focused insights.
+## Overview
+This repository contains a collection of hands-on data analytics and business intelligence projects completed as part of academic coursework, training, and practical learning.
 
-### Projects Included
+## Projects Included
 
-**1. Customer Sign-Up Behaviour & Data Quality Audit**
-Analyzed SaaS customer sign-up data to assess data quality and uncover user acquisition trends. The project focused on handling missing and inconsistent data, removing duplicates, and producing clear summaries to support marketing and onboarding decisions.
+### 1. Customer Sign-Up Analysis
+Analyzed SaaS customer sign-up data to assess data quality, identify user acquisition trends, handle missing values, remove duplicates, and produce summaries to support onboarding and marketing decisions.
 
-**2. Sales & Customer Behaviour Insights (Green Cart Ltd.)**
-Performed multi-dataset analysis by cleaning, merging, and enriching sales, product, and customer data. Built revenue-based features, created summary tables and visualisations, and answered key business questions related to revenue drivers, customer loyalty, discounts, and delivery performance.
+### 2. Sales and Customer Behavior Analysis
+Cleaned, merged, and analyzed sales, product, and customer datasets to explore revenue drivers, discounts, customer loyalty, and delivery performance.
 
-**3. Business Intelligence Dashboard & Predictive Insights (TechHub Retail)**
-Designed an executive-level interactive dashboard using Tableau Public. Integrated multiple datasets to analyse sales, profitability, customer segments, and regional performance, delivering strategic insights and recommendations to support business planning.
+### 3. Business Intelligence Dashboard
+Created a business intelligence dashboard to visualize sales, profitability, customer segments, and regional performance for strategic reporting.
 
-**4. Additional Project (Code Available on GitHub)**
-An additional data analytics project is included in this repository. Due to submission limitations, only the code is provided here, demonstrating further practical application of data analysis techniques and problem-solving skills.
+## Tools Used
+- Python
+- Pandas
+- NumPy
+- Jupyter Notebook
+- Power BI
+- Data Cleaning
+- Exploratory Data Analysis
+- Business Reporting
+- Data Visualization
 
-### Tools & Technologies
+## Repository Structure
+- `customer_signup_analysis.ipynb`
+- `sales_customer_behavior_analysis.ipynb`
+- `techhub_retail_dashboard.pbix`
+- `data/` – source datasets used in the projects
 
-* Python (Pandas, NumPy, Matplotlib, Seaborn)
-* Jupyter Notebook
-* Tableau Public
-* Data Cleaning & Feature Engineering
-* Exploratory Data Analysis (EDA)
-* Business Reporting & Visualisation
+## Skills Demonstrated
+- Data cleaning and preprocessing
+- Multi-source data integration
+- Exploratory data analysis
+- Dashboard creation
+- Business-oriented reporting
+- Insight communication for non-technical audiences
 
-### Key Skills Demonstrated
-
-* Data quality auditing and preprocessing
-* Multi-source data integration
-* Analytical thinking with business context
-* Clear communication of insights for non-technical stakeholders
-* Dashboard design and data storytelling
-
-This repository highlights my ability to turn raw data into meaningful insights and actionable business recommendations.
+## Notes
+This repository is presented as a portfolio collection showing practical work in Python, business intelligence, and analytics-focused problem solving.
